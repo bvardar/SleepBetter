@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "495045647067",
+    "firebase_url": "https://sleepbetter-aca9e.firebaseio.com",
+    "project_id": "sleepbetter-aca9e",
+    "storage_bucket": "sleepbetter-aca9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495045647067:android:a917abd7ab36bb10",
+        "android_client_info": {
+          "package_name": "com.bulut.sleepbetter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495045647067-07v8c6rl6ke2gmfs93muakphvkmqnrtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bulut.sleepbetter",
+            "certificate_hash": "aea5aed7341e5b1a171d68116ff6c87adc101044"
+          }
+        },
+        {
+          "client_id": "495045647067-cgbc273h9qlps5hos1d682j31o1do31n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOK6qiNpsxpW8ZmD0BfnZHLE7a2nx3js"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495045647067-cgbc273h9qlps5hos1d682j31o1do31n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
